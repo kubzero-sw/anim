@@ -1,0 +1,6 @@
+framework module Pods_firstanimation {
+  umbrella header "Pods-firstanimation-umbrella.h"
+
+  export *
+  module * { export * }
+}
